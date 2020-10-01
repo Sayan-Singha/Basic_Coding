@@ -1,0 +1,16 @@
+NODE    LC    RC      FREQ-VALUE
+ n1     n3    n2          54
+ n3     n5     s          22
+ n5      e    n6          10
+  e   null  null          4
+ n6      f    n7          6
+  f   null  null          3
+ n7      q     c          3
+  q   null  null          1
+  c   null  null          2
+  s   null  null          12
+ n2     n4     p          32
+ n4      +     a          15
+  +   null  null          7
+  a   null  null          8
+  p   null  null          17

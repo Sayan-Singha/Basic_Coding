@@ -1,0 +1,9 @@
+CHARACTERS   FREQUENCY
+    e          000
+    f          0010
+    q          00110
+    c          00111
+    s          01
+    +          100
+    a          101
+    p          11
