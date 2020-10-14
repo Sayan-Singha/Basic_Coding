@@ -56,9 +56,9 @@ int main()
     for(int i = 0; i < size; i++)
         cin >> array[i];
 
-    mergeSort(array, 0, n - 1);             // Time complexity O(nlogn)
+    mergeSort(array, 0, size - 1);             // Time complexity O(nlogn)
 
-    cout << "After Merge Sort :" << std::endl;
-    printArray(array, n);
+    cout << "After Merge Sort :" << endl;
+    printArray(array, size);
     return 0;
-}
+} 
